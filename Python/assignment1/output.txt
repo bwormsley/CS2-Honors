@@ -1,0 +1,12 @@
+Loaded 47 datapoints from set A
+Loaded 47 datapoints from set B
+#$-----=====-----$#
+Min temp: -43.17
+Max temp: 46.52
+Mean temp: -1.6865957446808502
+#$-----=====-----$#
+Earliest Date: 2017-01-01T00:00
+Most Recent Date: 2017-01-02T23:00
+#$-----=====-----$#
+Missing: 14.43 (2017-01-01T08:00)
+Inconsistent: 32.78 vs 32.9 (2017-01-01T00:00)
